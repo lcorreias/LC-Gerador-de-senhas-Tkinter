@@ -1,0 +1,1 @@
+# LC-Gerador-de-senhas-Tkinter
