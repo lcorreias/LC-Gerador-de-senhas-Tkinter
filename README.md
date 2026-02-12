@@ -1,6 +1,6 @@
 # Projeto Python Pro - Gerador de Senhas com Tkinter
 
-Este projeto foi desenvolvido como parte da tarefa prática para tutores da Kodland. O objetivo é demonstrar a aplicação de interfaces gráficas (GUI) utilizando a biblioteca nativa **Tkinter**.
+Este projeto foi desenvolvido como parte da tarefa prática para tutores da Kodland. O objetivo é demonstrar a aplicação de interfaces gráficas (GUI) utilizando a biblioteca nativa Tkinter.
 
 # Funcionalidades
 - Geração Personalizada: O utilizador define o comprimento da senha.
