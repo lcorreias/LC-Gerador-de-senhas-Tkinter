@@ -1,1 +1,3 @@
-
+# Bibliotecas necessárias:
+# O projeto utiliza o Tkinter, que é uma biblioteca nativa do Python.
+# Não é necessário instalar pacotes via pip para executar este projeto em sistemas Windows ou macOS!
